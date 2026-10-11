@@ -1,4 +1,4 @@
-# AutoCare AI - Vehicle Service Manager (MySQL edition)
+# AutoCare AI - Vehicle Service Manager 
 
 All data is stored in **MySQL only**: sign-up/login details, vehicles (number plate, VIN, PUC / insurance / last-service dates, fuel,
 odometer, condition levels), and every service booking (issue, technician/advisor, notes, diagnosis, invoice).
